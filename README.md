@@ -8,4 +8,5 @@
 3. Download the dataset
 4. EDA and Model Training in .ipynb files
 5. Data ingestion, Data Transformation and Model Trainer py files
-6. predict pipeline
+6. Hyper parameter tuning
+7. Predict pipeleing
